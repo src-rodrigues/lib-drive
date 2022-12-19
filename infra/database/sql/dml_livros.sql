@@ -1,0 +1,3 @@
+INSERT INTO `vartechs15`.`livro` (`autor_primario_id`, `titulo`, `edicao`, `ISBN`, `descricao_fisica`) VALUES ('0000000001', 'Introdução à organização de computadores', '4.ed.', '8521612915', 'xvi, 498p. : il.');
+INSERT INTO `vartechs15`.`livro` (`autor_primario_id`, `titulo`, `edicao`, `ISBN`, `descricao_fisica`) VALUES ('0000000002', 'Lógica e álgebra de Boole', '4.ed.', '8522412561', '167 p. : il.');
+INSERT INTO `vartechs15`.`livro` (`autor_primario_id`, `titulo`, `edicao`, `ISBN`, `descricao_fisica`) VALUES ('1', 'C completo e total', '3.ed. / rev. atual.', '9788534605953', '	xx, 827 p. : il.');

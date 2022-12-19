@@ -190,7 +190,7 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variable files
-.env
+.env.*
 .env.development.local
 .env.test.local
 .env.production.local
@@ -680,3 +680,7 @@ FodyWeavers.xsd
 # Additional files built by Visual Studio
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,react,node,visualstudio,intellij
+.env*
+.flaskenv*
+!.env.project
+!.env.vault
